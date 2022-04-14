@@ -1,0 +1,74 @@
+.main {
+    text-align: center;
+    font-size: 60px;
+    font-family: "Lucida Handwriting", sans-serif;
+}
+
+div {
+    text-align: center;
+}
+
+.main-picture {
+    width: 1000px;
+    height: 727px;
+}
+
+.lasagna-picture {
+    width: 867px;
+    height: 651px;
+}
+
+.fettuccine-picture {
+    width: 768px;
+    height: 756.75px;
+}
+
+.chicken-picture {
+    width: auto;
+    height: auto;
+}
+
+.main-links {
+    font-size: 20px;
+    font-family: Garamond, sans-serif;
+}
+
+.main-links {
+    list-style-type: none;
+    text-align: center;
+}
+
+.main-h2 {
+    text-align: center;
+    font-family: "Lucida Handwriting", sans-serif;
+    font-size: 40px;
+}
+
+.description {
+    text-align: center;
+    font-family: "Lucida Handwriting", sans-serif;
+    font-size: 40px;
+}
+
+.description-p {
+    text-align: center;
+    font-family: Garamond, sans-serif;
+    font-size: 20px;
+}
+
+h3 {
+    font-family: "Lucida Handwriting", sans-serif;
+    font-size: 25px;
+}
+
+.div-two {
+    text-align: left;
+}
+
+.div-two li {
+    font-size: 17px;
+}
+
+li {
+    font-family: Garamond, sans-serif;
+}
